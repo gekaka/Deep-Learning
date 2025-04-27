@@ -1,46 +1,39 @@
 AlexNet/*
-!AlexNet/
 !AlexNet/class_indices.json
 !AlexNet/model.py
 !AlexNet/predict.py
 !AlexNet/train.py
 
 GoogLeNet/*
-!GoogLeNet/
 !GoogLeNet/class_indices.json
 !GoogLeNet/model.py
 !GoogLeNet/predict.py
 !GoogLeNet/train.py
 
 LeNet/*
-!LeNet/
 !LeNet/model.py
 !LeNet/predict.py
 !LeNet/train.py
 
 ResNet/*
-!ResNet/
 !ResNet/class_indices.json
 !ResNet/model.py
 !ResNet/predict.py
 !ResNet/train.py
 
 ResNext/*
-!ResNext/
 !ResNext/class_indices.json
 !ResNext/model.py
 !ResNext/predict.py
 !ResNext/train.py
 
 VGGNet/*
-!VGGNet/
 !VGGNet/class_indices.json
 !VGGNet/model.py
 !VGGNet/predict.py
 !VGGNet/train.py
 
 vision_transformer/*
-!vision_transformer/
 !vision_transformer/class_indices.json
 !vision_transformer/flops.py
 !vision_transformer/my_dataset.py
